@@ -12,7 +12,7 @@ TECCOD
 
 ##Скриншоты android
 <p align="center">
-  <img src="lib/screenshots/main(android).png" width="250,  alt="Android Main" />
+  <img src="lib/screenshots/mian(android).png" width="250,  alt="Android Main" />
   <img src="lib/screenshots/error(android).png" width="250, alt="Android Error" />
 </p>
 
